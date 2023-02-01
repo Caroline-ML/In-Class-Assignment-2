@@ -7,3 +7,7 @@ Topics covered in this section: Python loops, String methods, Lists.
 3. Using the type() method, I created a list that stores the data types of another list.
 4. Using set and list, I created a unique list from a list of repeated numbers
 5. Created a function that counts the number pf upper and lower case characters in a provided string.
+
+
+https://user-images.githubusercontent.com/48158758/216132419-b4117aae-cc2e-43c4-8a19-c738748451d3.mp4
+
