@@ -1,5 +1,6 @@
 # In-Class-Assignment-2
-Caroline 
+Machine Learning Spring 2023
+Caroline .
 Topics covered in this section: Python loops, String methods, Lists.
 1. Using python, I created the specified pattern using for loops.
 2. Iterated through a list and outputted the values stored at odd indexes.
